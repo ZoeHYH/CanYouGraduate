@@ -1,2 +1,2 @@
-#CanYouGraduate
-#This is a game completed under the cooperation of the group.
+#CanYouGraduate.
+This is a game completed under the cooperation of the group.
