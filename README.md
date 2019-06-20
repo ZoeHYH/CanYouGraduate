@@ -1,2 +1,2 @@
 ## Can You Graduate?
-This is a game completed under the cooperation of the group.
+This project is completed by teamwork.
